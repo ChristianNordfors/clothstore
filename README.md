@@ -10,6 +10,7 @@ Tecnologías utilizadas:
 - MongoDB
 - Cloudinary
 - Nodemailer
+- Material UI
 - Firebase
 - API Mercado Pago
 
